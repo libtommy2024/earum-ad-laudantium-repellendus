@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/earum-ad-laudantium-repellendus",
-  "version": "21.38.522",
+  "version": "21.38.523",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -643,5 +643,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/earum-ad-laudantium-repellendus/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
